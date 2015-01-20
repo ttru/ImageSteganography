@@ -10,4 +10,4 @@ pixels of another image. The program can hide an image in another and then recov
 Wikipedia page of steganography for more details:
 http://en.wikipedia.org/wiki/Steganography
 
-* The idea for this project came from a part of an assignment from a Stanford introductory CS course.
+* The idea for this project was inspired by part of an assignment from a Stanford introductory CS course that I helped section lead for in 2014. I extended it to support hiding of an entire image.
